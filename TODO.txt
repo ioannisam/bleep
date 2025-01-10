@@ -1,0 +1,5 @@
+- manual
+- partirures
+- chords
+- piano mode
+- ascii visuals
