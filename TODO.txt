@@ -1,5 +1,5 @@
-- manual
-- partirures
 - chords
+- partirures (better lookup)
+- manual
 - piano mode
 - ascii visuals

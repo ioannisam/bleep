@@ -41,6 +41,14 @@ make
 
 Where **{f}** is the frequency of the note in Hz, **{d}** the duration in milliseconds and **{a}** the amplitude in the range [0..1].
 
+```bash
+./bin/bleep -p {path/to/partiture}
+```
+
+Where **{path/to/partiture}** is the path to a txt file containing a note progression.
+
+Note that the -p and -f, -d, -a flags are *mutually exclusive*.
+
 ### Example
 
 To play a *440 Hz* note for *1000 milliseconds* with an amplitude of *0.5*:
